@@ -1,5 +1,5 @@
 # 📊 Pandas Data Analysis Projects
-A complete collection of **Pandas Data Analysis projects** covering data cleaning, preprocessing, feature engineering, filtering, merging, statistical analysis, outlier detection, time-series analysis, and data export workflows using real-world datasets.
+A complete collection of **Pandas Data Analysis projects** covering data cleaning, preprocessing, feature engineering, filtering, merging, statistical analysis, outlier detection, time-series analysis, visualizations and data export workflows using real-world datasets.
 
 This repository demonstrates practical Data Science skills using Python, Pandas, NumPy, and SciPy through multiple hands-on datasets and analysis pipelines.
 
@@ -19,8 +19,9 @@ The projects demonstrate how to work with structured datasets using **Python and
 * Time-Series Analysis
 * Data Combination & Merging
 * Exporting Processed Data
+* Visualizations
 
-The repository is designed as a practical learning resource for **Data Science beginners and intermediate learners**.
+The repository is designed as a practical learning resource.
 
 ---
 
@@ -84,7 +85,7 @@ A complete retail sales data preprocessing and cleaning workflow using Pandas.
 
 ---
 
-## 3️⃣ E-Commerce Sales Analytics
+## 3️⃣ E-Commerce Sales Analytics (EDA Project)
 
 An advanced Pandas project focused on statistical analysis and business insights.
 
@@ -106,6 +107,7 @@ An advanced Pandas project focused on statistical analysis and business insights
 * IQR Outlier Detection
 * Correlation & Covariance
 * Time-Series Resampling
+* Visualizations
 
 ---
 
@@ -116,6 +118,7 @@ An advanced Pandas project focused on statistical analysis and business insights
 * NumPy 🔢
 * SciPy 📈
 * OpenPyXL 📁
+* Matplotlib 📈
 
 ---
 
@@ -183,6 +186,7 @@ An advanced Pandas project focused on statistical analysis and business insights
 import pandas as pd
 import numpy as np
 from scipy.stats import zscore
+import matplotlib.pyplot as plt
 ```
 
 ---
@@ -199,7 +203,7 @@ After completing these projects, you will understand:
 * How to analyze trends using time-series data
 * How to combine multiple datasets
 * How to export processed data
-
+* How to visualize data.
 ---
 
 # 📊 Workflow Overview
@@ -214,6 +218,7 @@ After completing these projects, you will understand:
 8. Detect Outliers
 9. Perform Time-Series Analysis
 10. Export Results
+11. Visualzations
 
 ---
 
@@ -226,18 +231,8 @@ After completing these projects, you will understand:
 * Data Cleaning Techniques
 * Feature Engineering
 * Real-world Dataset Handling
+* Ploting Skills
 
----
-
-# 🚀 Future Improvements
-
-* Add Data Visualization using Matplotlib & Seaborn
-* Build interactive dashboards using Streamlit
-* Add Machine Learning models
-* Perform predictive analytics
-* Add time-series forecasting
-
----
 
 # 👩‍💻 Author
 
@@ -249,11 +244,8 @@ BS in Computational Physics
 * Python
 * Pandas
 * NumPy
+* Matplotlib
 * Data Science
 * Machine Learning
 * Numerical Simulation
 * Statistical Analysis
-
----
-* GitHub Learning Repositories
-* Python Data Analysis Practice
